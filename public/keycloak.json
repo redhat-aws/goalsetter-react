@@ -1,0 +1,8 @@
+{
+    "realm": "gptgoals",
+    "auth-server-url": "https://keycloak-goalsetter.apps.ocpai.enterprisewebservice.com/auth/",
+    "ssl-required": "external",
+    "resource": "gpt-goal-react",
+    "public-client": true,
+    "confidential-port": 0
+  }
